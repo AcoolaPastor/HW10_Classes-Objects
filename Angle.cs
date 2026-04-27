@@ -12,7 +12,7 @@ namespace HW10_Classes_Objects
         public bool isCorrect = true;
         
 
-        public int Gradus
+        int Gradus
         {
             get
             {
@@ -31,7 +31,7 @@ namespace HW10_Classes_Objects
             }
         }
 
-        public int Minute
+        int Minute
         {
             get
             {
@@ -51,7 +51,7 @@ namespace HW10_Classes_Objects
             }
         }
 
-        public int Second
+        int Second
         {
             get
             {
